@@ -10,7 +10,7 @@
 --  * Everything that touches engine objects goes through pcall.
 
 local MOD_NAME    = "MoreRVers"
-local MOD_VERSION = "1.1.0"
+local MOD_VERSION = "1.1.1"
 
 local MoreRVers = {
   Name    = MOD_NAME,

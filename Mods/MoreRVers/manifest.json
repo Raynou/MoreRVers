@@ -1,6 +1,6 @@
 {
   "name": "MoreRVers",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/A-Zzi/MoreRVers",
   "description": "Increase multiplayer player cap beyond 4. Host with up to 24 players! Simple INI configuration - just set MaxPlayers and go.",
   "dependencies": [

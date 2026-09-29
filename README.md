@@ -1,6 +1,6 @@
 # MoreRVers - Multiplayer Expansion Mod for RV There Yet?
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![Version](https://img.shields.io/badge/version-1.1.1-blue)
 ![Game](https://img.shields.io/badge/game-RV%20There%20Yet%3F-orange)
 ![Modloader](https://img.shields.io/badge/modloader-UE4SS-purple)
 
@@ -139,7 +139,7 @@ The report goes to the UE4SS console and to `UE4SS.log`, which sits next to
 On a working install the log contains lines like:
 
 ```
-[21:04:11] [MoreRVers] [INFO] MoreRVers v1.1.0 loading. Target cap=8 (hard max 24). Engine: UE 5.5
+[21:04:11] [MoreRVers] [INFO] MoreRVers v1.1.1 loading. Target cap=8 (hard max 24). Engine: UE 5.5
 [21:04:11] [MoreRVers] [INFO] BP_RideGameSession_C.MaxPlayers: 4 -> 8 (new GameSession)
 ```
 
